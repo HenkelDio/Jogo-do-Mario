@@ -13,7 +13,7 @@ Players should be able to:
 
 # Live Site
 
-![Click here to Acess Live Site](https://mario-jump-game-c8n9dhds8-henkeldio.vercel.app/)
+[Click here to Acess Live Site](https://mario-jump-game-c8n9dhds8-henkeldio.vercel.app/)
 
 # Built with
 
@@ -23,4 +23,4 @@ Players should be able to:
 
 # Author
 
-![Willian Henkel](https://www.linkedin.com/in/willian-henkel-b652b3205/)
+[Willian Henkel](https://www.linkedin.com/in/willian-henkel-b652b3205/)
