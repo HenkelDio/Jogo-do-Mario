@@ -43,11 +43,6 @@ const loop = setInterval(()=>{
 
 }, 10); 
 
-reset.addEventListener('click', ()=>{
 
-    resetModal.style.display = 'none'
-
-  
-})
 
 document.addEventListener('click', jump)
